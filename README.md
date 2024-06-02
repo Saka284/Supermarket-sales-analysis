@@ -1,6 +1,6 @@
 # Supermarket Sales Dataset Analysis
 
-This project involves performing Exploratory Data Analysis (EDA) on the Supermarket Sales dataset using Python. The analysis includes data exploration, data cleaning, and deriving insights from the dataset.
+This project involves performing Exploratory Data Analysis (EDA) on the Supermarket Sales dataset using Python. The analysis includes data exploration, data cleaning, and deriving insights from the dataset. With this project, we can determine the number of transactions from January to March, customer payment habits, the number of male and female customers, whether customers are members or not, and identify the target customers for each product line. These insights can be used by the company to optimize inventory management, tailor marketing strategies, enhance customer satisfaction, and ultimately drive sales growth.
 
 ## Introduction
 
